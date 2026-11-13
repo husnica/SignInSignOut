@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192079654698",
+    "project_id": "signinsignup-ee184",
+    "storage_bucket": "signinsignup-ee184.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192079654698:android:951df695f217a326eaf853",
+        "android_client_info": {
+          "package_name": "com.doubleshotdevs.signinsignout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf4boRTiACPPxo8Uymfwez8Mup5NBTuaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
